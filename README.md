@@ -1,4 +1,4 @@
-# Machine Learning com SKlearn (Alura)
+# Machine Learning - SKlearn (Alura)
 
 Neste curso pude ter os primeiros contatos com os seguintes conceitos:
 
@@ -9,3 +9,4 @@ Neste curso pude ter os primeiros contatos com os seguintes conceitos:
 - Dummy classifiers e SVC
 - Árvore de Decisão
 
+![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
