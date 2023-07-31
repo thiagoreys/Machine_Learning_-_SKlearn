@@ -1,4 +1,4 @@
-# Machine_Learning_-_SKlearn
+# Machine Learning com SKlearn (Alura)
 
 Neste curso pude ter os primeiros contatos com os seguintes conceitos:
 
