@@ -5,7 +5,7 @@ Neste curso pude ter os primeiros contatos com os seguintes conceitos:
 - Classificações
 - Dados de Treino e Dados de Teste
 - Estratificação
-- Estimadores não lineares
+- Estimadores Não-lineares
 - Dummy classifiers e SVC
 - Árvore de Decisões
 
