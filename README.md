@@ -7,6 +7,6 @@ Neste curso pude ter os primeiros contatos com os seguintes conceitos:
 - Estratificação
 - Estimadores não lineares
 - Dummy classifiers e SVC
-- Árvore de Decisão
+- Árvore de Decisões
 
 ![Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge)
